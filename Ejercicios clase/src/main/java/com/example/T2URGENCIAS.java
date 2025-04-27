@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner; //para usar el scanner
 
-public class URGENCIAS {
+public class T2URGENCIAS {
 
     public static final int NUSS_MIN = 100000, NUSS_MAX = 999999;
     public static final int TEMPERATURA_MIN = 27, TEMPERATURA_MAX = 45;

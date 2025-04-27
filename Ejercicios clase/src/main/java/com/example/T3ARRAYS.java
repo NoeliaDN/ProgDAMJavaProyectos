@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
-public class ARRAYS {
+public class T3ARRAYS {
     public static void main(String[] args) {
 
         int [] notas = new int[3]; // tiene tamaño 3, por lo que ahí estaría el límite de datos a introducir en este ejemplo, siempre empezando en index 0.
